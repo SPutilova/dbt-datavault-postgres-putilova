@@ -1,1 +1,10 @@
 /.idea/
+logs/dbt.log
+logs/dbt-lsp.log
+logs/query_log.sql
+/venv/
+dbt_packages/
+target/
+.user.yml
+profiles.yml
+package-lock.yml
