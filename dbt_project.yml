@@ -34,3 +34,9 @@ models:
       sats:
         tags:
           - 'satellite'
+    business_vault:
+      tags:
+        - 'business'
+    mart:
+      tags:
+        - 'mart'
